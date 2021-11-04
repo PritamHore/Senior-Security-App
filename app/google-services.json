@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "211467929188",
+    "project_id": "security-app-f5f7a",
+    "storage_bucket": "security-app-f5f7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211467929188:android:55ff97727bd70af3f4c171",
+        "android_client_info": {
+          "package_name": "com.example.security_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211467929188-0e69a1l8tvn31ct4l5ftnju68hdonu93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.security_app",
+            "certificate_hash": "4cfdab57b2bd416a19d3280dbf43ec34e735b881"
+          }
+        },
+        {
+          "client_id": "211467929188-uvtc47eevim0nsre9ip61hjj2vr7ogu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChY880DmNX23G4C_CA18opKxODoc4_u4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211467929188-uvtc47eevim0nsre9ip61hjj2vr7ogu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
